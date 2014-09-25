@@ -1,6 +1,6 @@
 # redis for hermes
 
-persisted storage for hermes with [redis](http://redis.io/).
+persisted storage plugin for [hermes](https://github.com/segmentio/hermes) with [redis](http://redis.io/).
 
 ## set
 
