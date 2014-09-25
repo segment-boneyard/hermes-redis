@@ -13,3 +13,7 @@ robot.data(key, value);
 ``` js
 robot.data(key, function(err, value){});
 ```
+
+## LICENSE
+
+MIT
