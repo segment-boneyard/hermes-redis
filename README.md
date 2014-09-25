@@ -1,4 +1,4 @@
-# redis for hermes
+# hermes-redis
 
 persisted storage plugin for [hermes](https://github.com/segmentio/hermes) with [redis](http://redis.io/).
 
